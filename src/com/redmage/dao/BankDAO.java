@@ -1,8 +1,7 @@
-package com.redmage.doa;
+package com.redmage.dao;
 
 import com.redmage.bank.Account;
 import com.redmage.bank.Card;
-import com.redmage.bank.Transaction;
 import com.redmage.customer.Customer;
 
 import java.sql.*;

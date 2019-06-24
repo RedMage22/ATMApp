@@ -1,6 +1,6 @@
 package com.redmage.bank;
 
-import com.redmage.doa.BankDAO;
+import com.redmage.dao.BankDAO;
 
 public class Card {
     private static int cardCount;

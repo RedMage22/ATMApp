@@ -1,7 +1,7 @@
 package com.redmage.bank;
 
 import com.redmage.customer.Customer;
-import com.redmage.doa.BankDAO;
+import com.redmage.dao.BankDAO;
 
 import java.text.NumberFormat;
 import java.text.SimpleDateFormat;

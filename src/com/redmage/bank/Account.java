@@ -1,11 +1,9 @@
 package com.redmage.bank;
 
-import com.redmage.doa.BankDAO;
+import com.redmage.dao.BankDAO;
 
 import java.text.NumberFormat;
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 
 public class Account {
     private String name;
